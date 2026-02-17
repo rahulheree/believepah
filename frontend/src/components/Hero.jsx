@@ -22,7 +22,7 @@ const Hero = () => {
                             Your Journey to <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-emerald-500">Inner Peace</span> Starts Here
                         </h1>
                         <p className="text-xl text-slate-600 mb-10 leading-relaxed font-sans font-light">
-                            Experience the future of mental wellness with our empathetic AI companion and professional care network. 24/7 support, personalized therapy, and a path to a better you.
+                            Experience the future of mental wellness with our empathetic AI companion. 24/7 support, mood tracking, and a path to a better you.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                             <button className="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-white bg-primary rounded-full hover:bg-teal-800 transition-all shadow-lg hover:shadow-primary/30 transform hover:-translate-y-1 group">
